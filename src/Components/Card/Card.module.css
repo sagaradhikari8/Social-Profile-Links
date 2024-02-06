@@ -23,6 +23,7 @@
 
 .Location {
   color: hsl(75, 94%, 57%);
-  font-size: small;
+  font-size: 11px;
   margin-bottom: 16px;
+  font-weight: bold;
 }

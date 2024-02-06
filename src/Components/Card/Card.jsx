@@ -12,7 +12,7 @@ const Card = () => {
         width="80"
         height="80"
       />
-      <h3>Jessica Randell</h3>
+      <h3 className={styles.Name}>Jessica Randell</h3>
       <p className={styles.Location}>London, United Kingdom</p>
       <p className={styles.Description}>
         "Front-end developer and avid reader"
