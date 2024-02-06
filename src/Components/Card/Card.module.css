@@ -1,0 +1,28 @@
+.Card {
+  max-width: 350px;
+  background-color: var(--dark-grey);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+  border-radius: 1rem;
+  align-items: center;
+  color: var(--white);
+}
+
+.CardImg {
+  border-radius: 500px;
+  margin-bottom: 16px;
+}
+
+.Description {
+  font-weight: 400;
+  font-size: small;
+  margin-bottom: 16px;
+}
+
+.Location {
+  color: hsl(75, 94%, 57%);
+  font-size: small;
+  margin-bottom: 16px;
+}
